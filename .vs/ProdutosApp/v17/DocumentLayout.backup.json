@@ -3,8 +3,40 @@
   "WorkspaceRootPath": "C:\\Edmilson\\Projeto Aula07\\ProdutosApp\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{0805E395-6540-45B8-B4E5-892D7BC1EF82}|ProdutosApp\\ProdutosApp.csproj|c:\\edmilson\\projeto aula07\\produtosapp\\produtosapp\\controllers\\categoriascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0805E395-6540-45B8-B4E5-892D7BC1EF82}|ProdutosApp\\ProdutosApp.csproj|solutionrelative:produtosapp\\controllers\\categoriascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Edmilson\\Projeto Aula07\\ProdutosApp\\Cadastro de categorias.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Cadastro de categorias.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0805E395-6540-45B8-B4E5-892D7BC1EF82}|ProdutosApp\\ProdutosApp.csproj|c:\\edmilson\\projeto aula07\\produtosapp\\produtosapp\\repositories\\categoriarepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0805E395-6540-45B8-B4E5-892D7BC1EF82}|ProdutosApp\\ProdutosApp.csproj|solutionrelative:produtosapp\\repositories\\categoriarepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0805E395-6540-45B8-B4E5-892D7BC1EF82}|ProdutosApp\\ProdutosApp.csproj|c:\\edmilson\\projeto aula07\\produtosapp\\produtosapp\\repositories\\produtorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0805E395-6540-45B8-B4E5-892D7BC1EF82}|ProdutosApp\\ProdutosApp.csproj|solutionrelative:produtosapp\\repositories\\produtorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{0805E395-6540-45B8-B4E5-892D7BC1EF82}|ProdutosApp\\ProdutosApp.csproj|c:\\edmilson\\projeto aula07\\produtosapp\\produtosapp\\entities\\categoria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{0805E395-6540-45B8-B4E5-892D7BC1EF82}|ProdutosApp\\ProdutosApp.csproj|solutionrelative:produtosapp\\entities\\categoria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0805E395-6540-45B8-B4E5-892D7BC1EF82}|ProdutosApp\\ProdutosApp.csproj|c:\\edmilson\\projeto aula07\\produtosapp\\produtosapp\\migrations\\20250315192951_initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0805E395-6540-45B8-B4E5-892D7BC1EF82}|ProdutosApp\\ProdutosApp.csproj|solutionrelative:produtosapp\\migrations\\20250315192951_initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0805E395-6540-45B8-B4E5-892D7BC1EF82}|ProdutosApp\\ProdutosApp.csproj|c:\\edmilson\\projeto aula07\\produtosapp\\produtosapp\\contexts\\datacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0805E395-6540-45B8-B4E5-892D7BC1EF82}|ProdutosApp\\ProdutosApp.csproj|solutionrelative:produtosapp\\contexts\\datacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0805E395-6540-45B8-B4E5-892D7BC1EF82}|ProdutosApp\\ProdutosApp.csproj|c:\\edmilson\\projeto aula07\\produtosapp\\produtosapp\\mappings\\produtomap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0805E395-6540-45B8-B4E5-892D7BC1EF82}|ProdutosApp\\ProdutosApp.csproj|solutionrelative:produtosapp\\mappings\\produtomap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0805E395-6540-45B8-B4E5-892D7BC1EF82}|ProdutosApp\\ProdutosApp.csproj|c:\\edmilson\\projeto aula07\\produtosapp\\produtosapp\\mappings\\categoriamap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0805E395-6540-45B8-B4E5-892D7BC1EF82}|ProdutosApp\\ProdutosApp.csproj|solutionrelative:produtosapp\\mappings\\categoriamap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{0805E395-6540-45B8-B4E5-892D7BC1EF82}|ProdutosApp\\ProdutosApp.csproj|c:\\edmilson\\projeto aula07\\produtosapp\\produtosapp\\entities\\produto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -25,8 +57,108 @@
           "SelectedChildIndex": 1,
           "Children": [
             {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CategoriasController.cs",
+              "DocumentMoniker": "C:\\Edmilson\\Projeto Aula07\\ProdutosApp\\ProdutosApp\\Controllers\\CategoriasController.cs",
+              "RelativeDocumentMoniker": "ProdutosApp\\Controllers\\CategoriasController.cs",
+              "ToolTip": "C:\\Edmilson\\Projeto Aula07\\ProdutosApp\\ProdutosApp\\Controllers\\CategoriasController.cs",
+              "RelativeToolTip": "ProdutosApp\\Controllers\\CategoriasController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-15T20:33:36.189Z",
+              "EditorCaption": ""
+            },
+            {
               "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "Cadastro de categorias.sql",
+              "DocumentMoniker": "C:\\Edmilson\\Projeto Aula07\\ProdutosApp\\Cadastro de categorias.sql",
+              "RelativeDocumentMoniker": "Cadastro de categorias.sql",
+              "ToolTip": "C:\\Edmilson\\Projeto Aula07\\ProdutosApp\\Cadastro de categorias.sql",
+              "RelativeToolTip": "Cadastro de categorias.sql",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2025-03-15T20:26:38.949Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ProdutoRepository.cs",
+              "DocumentMoniker": "C:\\Edmilson\\Projeto Aula07\\ProdutosApp\\ProdutosApp\\Repositories\\ProdutoRepository.cs",
+              "RelativeDocumentMoniker": "ProdutosApp\\Repositories\\ProdutoRepository.cs",
+              "ToolTip": "C:\\Edmilson\\Projeto Aula07\\ProdutosApp\\ProdutosApp\\Repositories\\ProdutoRepository.cs",
+              "RelativeToolTip": "ProdutosApp\\Repositories\\ProdutoRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-15T19:44:59.459Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CategoriaRepository.cs",
+              "DocumentMoniker": "C:\\Edmilson\\Projeto Aula07\\ProdutosApp\\ProdutosApp\\Repositories\\CategoriaRepository.cs",
+              "RelativeDocumentMoniker": "ProdutosApp\\Repositories\\CategoriaRepository.cs",
+              "ToolTip": "C:\\Edmilson\\Projeto Aula07\\ProdutosApp\\ProdutosApp\\Repositories\\CategoriaRepository.cs",
+              "RelativeToolTip": "ProdutosApp\\Repositories\\CategoriaRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAwAoAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-15T19:44:09.406Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "20250315192951_initial.cs",
+              "DocumentMoniker": "C:\\Edmilson\\Projeto Aula07\\ProdutosApp\\ProdutosApp\\Migrations\\20250315192951_initial.cs",
+              "RelativeDocumentMoniker": "ProdutosApp\\Migrations\\20250315192951_initial.cs",
+              "ToolTip": "C:\\Edmilson\\Projeto Aula07\\ProdutosApp\\ProdutosApp\\Migrations\\20250315192951_initial.cs",
+              "RelativeToolTip": "ProdutosApp\\Migrations\\20250315192951_initial.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-15T19:29:51.994Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "DataContext.cs",
+              "DocumentMoniker": "C:\\Edmilson\\Projeto Aula07\\ProdutosApp\\ProdutosApp\\Contexts\\DataContext.cs",
+              "RelativeDocumentMoniker": "ProdutosApp\\Contexts\\DataContext.cs",
+              "ToolTip": "C:\\Edmilson\\Projeto Aula07\\ProdutosApp\\ProdutosApp\\Contexts\\DataContext.cs",
+              "RelativeToolTip": "ProdutosApp\\Contexts\\DataContext.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAAwBkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-15T19:08:15.944Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ProdutoMap.cs",
+              "DocumentMoniker": "C:\\Edmilson\\Projeto Aula07\\ProdutosApp\\ProdutosApp\\Mappings\\ProdutoMap.cs",
+              "RelativeDocumentMoniker": "ProdutosApp\\Mappings\\ProdutoMap.cs",
+              "ToolTip": "C:\\Edmilson\\Projeto Aula07\\ProdutosApp\\ProdutosApp\\Mappings\\ProdutoMap.cs",
+              "RelativeToolTip": "ProdutosApp\\Mappings\\ProdutoMap.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAAwCIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-15T17:28:06.578Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "CategoriaMap.cs",
+              "DocumentMoniker": "C:\\Edmilson\\Projeto Aula07\\ProdutosApp\\ProdutosApp\\Mappings\\CategoriaMap.cs",
+              "RelativeDocumentMoniker": "ProdutosApp\\Mappings\\CategoriaMap.cs",
+              "ToolTip": "C:\\Edmilson\\Projeto Aula07\\ProdutosApp\\ProdutosApp\\Mappings\\CategoriaMap.cs",
+              "RelativeToolTip": "ProdutosApp\\Mappings\\CategoriaMap.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAmwAkAAABDAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-15T17:27:49.742Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
               "Title": "Produto.cs",
               "DocumentMoniker": "C:\\Edmilson\\Projeto Aula07\\ProdutosApp\\ProdutosApp\\Entities\\Produto.cs",
               "RelativeDocumentMoniker": "ProdutosApp\\Entities\\Produto.cs",
@@ -34,25 +166,23 @@
               "RelativeToolTip": "ProdutosApp\\Entities\\Produto.cs",
               "ViewState": "AgIAAAcAAAAAAAAAAAAgwBUAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-08T20:34:07.834Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-08T20:34:07.834Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 4,
               "Title": "Categoria.cs",
               "DocumentMoniker": "C:\\Edmilson\\Projeto Aula07\\ProdutosApp\\ProdutosApp\\Entities\\Categoria.cs",
               "RelativeDocumentMoniker": "ProdutosApp\\Entities\\Categoria.cs",
               "ToolTip": "C:\\Edmilson\\Projeto Aula07\\ProdutosApp\\ProdutosApp\\Entities\\Categoria.cs",
               "RelativeToolTip": "ProdutosApp\\Entities\\Categoria.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAxwBIAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-08T20:33:53.295Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-08T20:33:53.295Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 10,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Edmilson\\Projeto Aula07\\ProdutosApp\\ProdutosApp\\Program.cs",
               "RelativeDocumentMoniker": "ProdutosApp\\Program.cs",
@@ -60,8 +190,7 @@
               "RelativeToolTip": "ProdutosApp\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-08T20:20:49.466Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-08T20:20:49.466Z"
             }
           ]
         }
